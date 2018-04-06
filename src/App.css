@@ -2,6 +2,10 @@ body {
   background-color: #203d69;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
   align-items: center;
   display: flex;
@@ -9,8 +13,4 @@ body {
   margin: 0 auto;
   justify-content: center;
   width: 100vw;
-
-  img {
-    max-width: 100%;
-  }
 }
